@@ -1,5 +1,5 @@
 {
-  "name": "travelhood/poeditor-client",
+  "name": "tomekszad/poeditor-client-php",
   "description": "PHP client for poeditor.com API",
   "minimum-stability": "dev",
   "license": "GPL-3.0-or-later",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Travelhood\\PoEditor\\": "src/Travelhood/PoEditor"
+      "Tomekszad\\PoEditor\\": "src/Tomekszad/PoEditor"
     }
   }
 }
